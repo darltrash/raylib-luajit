@@ -30,5 +30,5 @@ Based on [this gist](https://gist.github.com/alexander-matz/f8ee4eb9fdf676203d70
 To run the example;
   - Clone the repo
   - Install LuaJIT 2+ and Raylib 3 (if not installed)
-  - Run "main.lua" with LuaJIT 2+
+  - Run "example.lua" with LuaJIT 2+
   - Admire the precious white window with the text inside
